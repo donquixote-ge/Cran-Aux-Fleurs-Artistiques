@@ -2,7 +2,20 @@
 icon: hand-wave
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
-layout: landing
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
 ---
 
 # გალაკტიონი — „თავის ქალა არტისტული ყვავილებით“
@@ -20,3 +33,17 @@ layout: landing
 
 > ...et les roses trop hautes.\
 > **H. de Régnier**
+
+***
+
+{% content-ref url="poems/shemodgoma-umanko-chasakhebis-mamata-savaneshi.md" %}
+[shemodgoma-umanko-chasakhebis-mamata-savaneshi.md](poems/shemodgoma-umanko-chasakhebis-mamata-savaneshi.md)
+{% endcontent-ref %}
+
+{% content-ref url="poems/lurja-tskhenebi.md" %}
+[lurja-tskhenebi.md](poems/lurja-tskhenebi.md)
+{% endcontent-ref %}
+
+{% content-ref url="poems/angelozs-echira-grdzeli-pergamenti.md" %}
+[angelozs-echira-grdzeli-pergamenti.md](poems/angelozs-echira-grdzeli-pergamenti.md)
+{% endcontent-ref %}
