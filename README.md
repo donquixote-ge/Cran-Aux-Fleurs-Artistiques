@@ -4,7 +4,7 @@ cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
   cover:
-    visible: true
+    visible: false
     size: full
   title:
     visible: true
@@ -18,7 +18,9 @@ layout:
     visible: false
 ---
 
-# გალაკტიონი — „თავის ქალა არტისტული ყვავილებით“
+# გალაკტიონი
+
+## თავის ქალა არტისტული ყვავილებით
 
 > Le charme inattendu d'un bijou rose\
 > et noir,\

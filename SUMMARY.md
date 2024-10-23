@@ -1,6 +1,6 @@
 # Table of contents
 
-* [გალაკტიონი — „თავის ქალა არტისტული ყვავილებით“](README.md)
+* [გალაკტიონი](README.md)
 
 ## ლექსები <a href="#poems" id="poems"></a>
 
