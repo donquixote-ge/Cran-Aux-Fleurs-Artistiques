@@ -34,8 +34,6 @@ layout:
 > ...et les roses trop hautes.\
 > **H. de Régnier**
 
-***
-
 ### სარჩევი
 
 {% content-ref url="poems/shemodgoma-umanko-chasakhebis-mamata-savaneshi.md" %}
