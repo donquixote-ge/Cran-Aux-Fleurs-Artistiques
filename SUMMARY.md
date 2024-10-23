@@ -1,6 +1,6 @@
 # Table of contents
 
-* [გალაკტიონი](README.md)
+* [თავფურცელი](README.md)
 
 ## ლექსები <a href="#poems" id="poems"></a>
 

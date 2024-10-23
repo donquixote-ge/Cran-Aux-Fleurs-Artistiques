@@ -7,7 +7,7 @@ layout:
     visible: false
     size: full
   title:
-    visible: true
+    visible: false
   description:
     visible: false
   tableOfContents:
@@ -18,9 +18,11 @@ layout:
     visible: false
 ---
 
-# გალაკტიონი
+# თავფურცელი
 
-## თავის ქალა არტისტული ყვავილებით
+## გალაკტიონი
+
+### თავის ქალა არტისტული ყვავილებით
 
 > Le charme inattendu d'un bijou rose\
 > et noir,\
