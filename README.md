@@ -18,9 +18,7 @@ layout:
     visible: true
 ---
 
-# თავის ქალა არტისტული ყვავილებით
-
-### გალაკტიონი
+# გალაკტიონი — „თავის ქალა არტისტული ყვავილებით“
 
 > Le charme inattendu d'un bijou rose\
 > et noir,\

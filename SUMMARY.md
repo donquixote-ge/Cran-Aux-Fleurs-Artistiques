@@ -1,6 +1,6 @@
 # Table of contents
 
-* [თავის ქალა არტისტული ყვავილებით](README.md)
+* [გალაკტიონი — „თავის ქალა არტისტული ყვავილებით“](README.md)
 
 ## Getting Started
 
