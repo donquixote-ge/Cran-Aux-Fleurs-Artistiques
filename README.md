@@ -51,3 +51,31 @@ layout:
 {% content-ref url="poems/angelozs-echira-grdzeli-pergamenti.md" %}
 [angelozs-echira-grdzeli-pergamenti.md](poems/angelozs-echira-grdzeli-pergamenti.md)
 {% endcontent-ref %}
+
+{% content-ref url="poems/saubari-edgarze.md" %}
+[saubari-edgarze.md](poems/saubari-edgarze.md)
+{% endcontent-ref %}
+
+{% content-ref url="poems/mariam-antuaneta.md" %}
+[mariam-antuaneta.md](poems/mariam-antuaneta.md)
+{% endcontent-ref %}
+
+{% content-ref url="poems/tovli.md" %}
+[tovli.md](poems/tovli.md)
+{% endcontent-ref %}
+
+{% content-ref url="poems/unazesi-khelnatseri.md" %}
+[unazesi-khelnatseri.md](poems/unazesi-khelnatseri.md)
+{% endcontent-ref %}
+
+{% content-ref url="poems/sherigeba.md" %}
+[sherigeba.md](poems/sherigeba.md)
+{% endcontent-ref %}
+
+{% content-ref url="poems/poeti-brboshi.md" %}
+[poeti-brboshi.md](poems/poeti-brboshi.md)
+{% endcontent-ref %}
+
+{% content-ref url="poems/pirimze.md" %}
+[pirimze.md](poems/pirimze.md)
+{% endcontent-ref %}
