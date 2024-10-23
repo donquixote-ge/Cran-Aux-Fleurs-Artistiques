@@ -9,3 +9,8 @@
 * [ანგელოზს ეჭირა გრძელი პერგამენტი](poems/angelozs-echira-grdzeli-pergamenti.md)
 * [საუბარი ედგარზე](poems/saubari-edgarze.md)
 * [მარიამ ანტუანეტა](poems/mariam-antuaneta.md)
+* [თოვლი](poems/tovli.md)
+* [უნაზესი ხელნაწერი](poems/unazesi-khelnatseri.md)
+* [შერიგება](poems/sherigeba.md)
+* [პოეტი ბრბოში](poems/poeti-brboshi.md)
+* [პირიმზე](poems/pirimze.md)
