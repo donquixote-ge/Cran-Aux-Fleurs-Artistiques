@@ -36,6 +36,8 @@ layout:
 
 ***
 
+### სარჩევი
+
 {% content-ref url="poems/shemodgoma-umanko-chasakhebis-mamata-savaneshi.md" %}
 [shemodgoma-umanko-chasakhebis-mamata-savaneshi.md](poems/shemodgoma-umanko-chasakhebis-mamata-savaneshi.md)
 {% endcontent-ref %}
