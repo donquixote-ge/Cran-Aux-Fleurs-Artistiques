@@ -1,6 +1,6 @@
 # Table of contents
 
-* [თავფურცელი](README.md)
+* [თავის ქალა არტისტული ყვავილებით](README.md)
 
 ## ლექსები <a href="#poems" id="poems"></a>
 
