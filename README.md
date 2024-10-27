@@ -1,11 +1,11 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: .gitbook/assets/Pasted image (2).png
 coverY: 0
 layout:
   cover:
-    visible: false
-    size: full
+    visible: true
+    size: hero
   title:
     visible: true
   description:
